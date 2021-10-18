@@ -28,3 +28,15 @@ html{
   background-color: #D96FF5; /* Add a green color to the "active/current" link */
   color: white;
 }
+
+  h3 {
+    font-size: 45;
+font-family: 'Roboto', sans-serif;
+color:blue;
+
+}
+h5{font-size:30;
+font-family: 'Roboto', sans-serif;
+color:#D96FF5;
+
+}
