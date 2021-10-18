@@ -1,0 +1,30 @@
+
+html{
+  cursor: url('taco.jpg'), auto;
+  height:100%
+}
+
+.vertical-menu {
+  width: 200px;
+
+   /* Set a width if you like */
+}
+
+.vertical-menu a {
+ /*background-color: #eee; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+  cursor: url(taco.jpg), auto;
+}
+
+.vertical-menu a:hover {
+  color: #D96FF5;
+   /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+  background-color: #D96FF5; /* Add a green color to the "active/current" link */
+  color: white;
+}
