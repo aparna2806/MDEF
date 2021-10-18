@@ -1,8 +1,4 @@
 
-html{
-  cursor: url('taco.jpg'), auto;
-  height:100%
-}
 
 .vertical-menu {
   width: 200px;
@@ -16,7 +12,6 @@ html{
   display: block; /* Make the links appear below each other */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
-  cursor: url(taco.jpg), auto;
 }
 
 .vertical-menu a:hover {
@@ -30,13 +25,14 @@ html{
 }
 
   h3 {
-    font-size: 45;
+    font-size: 45; /* main heading topic */
 font-family: 'Roboto', sans-serif;
-color:blue;
+color: #D96FF5;
 
 }
-h5{font-size:30;
+h5{
+  font-size:55; /*heading to individual para */
 font-family: 'Roboto', sans-serif;
-color:#D96FF5;
+color:#37FAA0;
 
 }
