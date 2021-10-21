@@ -1,11 +1,6 @@
-
-
 .vertical-menu {
   width: 200px;
-
-   /* Set a width if you like */
 }
-
 .vertical-menu a {
  /*background-color: #eee; /* Grey background color */
   color: black; /* Black text color */
@@ -13,26 +8,78 @@
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
 }
-
 .vertical-menu a:hover {
   color: #D96FF5;
    /* Dark grey background on mouse-over */
 }
-
 .vertical-menu a.active {
   background-color: #D96FF5; /* Add a green color to the "active/current" link */
   color: white;
 }
+p{
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  line-height: 24px;
+}
 
-  h3 {
-    font-size: 45; /* main heading topic */
-font-family: 'Roboto', sans-serif;
-color: #D96FF5;
+h3{
+  font-size: 22px;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 14px;
+  text-decoration: underline;
+  text-transform:uppercase;
+  color:#3845D6;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding-top: 2px;
+}
+
+h5{
+  font-size: 17px;
+  font-weight:530;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 10px;
+  margin-bottom: 1px;
+  color:#3845D6;
 
 }
-h5{
-  font-size:55; /*heading to individual para */
-font-family: 'Roboto', sans-serif;
-color:#37FAA0;
+p{
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 2px;
+margin-bottom: 2px;
+line-height: 21px;
+color:#F52CCA;
+text-align: justify;
+font-family: 'Poppins', sans-serif;
+}
+
+ul{
+color:#F52CCA;
+list-style: circle;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 4px;
+  margin-bottom: 3px;
+  line-height: 24px;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+}
+.pdcolour{
+  color:#3845D6;
+}
+img{
+  margin-left: 300px;
+  margin-right: 300px;
 
 }
